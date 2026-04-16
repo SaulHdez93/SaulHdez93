@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Saúl 👋
 
-<!--
-**SaulHdez93/SaulHdez93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | Java & Spring Boot Specialist
+Soy un apasionado del desarrollo del lado del servidor, actualmente finalizando mis estudios en **DAW (Desarrollo de Aplicaciones Web)**. Me enfoco en crear APIs robustas, escalables y en escribir código limpio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+- **Lenguajes:** Java, JavaScript (Node.js), SQL
+- **Frameworks:** Spring Boot
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Herramientas:** Git, Docker, Postman, Maven
+
+---
+
+### 📈 En qué estoy trabajando
+- 🔭 Actualmente mejorando mis habilidades en **Arquitectura de Microservicios**.
+- 🌱 Aprendiendo sobre despliegue en la nube (AWS/Azure).
+- 👯 Buscando mi primera oportunidad profesional como **Backend Developer**.
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** https://www.linkedin.com/in/saul-hern%C3%A1ndez-hern%C3%A1ndez-03a035b9/
+- **Email:** ivhsaulhdez@gmail.com
